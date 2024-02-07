@@ -1,9 +1,9 @@
 color_class,color
-primary,pink
-secondary,purple
-success,#FF69B4
-info,#DA70D6
-warning,#F8C8DC
-danger,#800080
-light,#953553
-dark,#D8BFD8
+primary,green
+secondary,red
+success,#32a89c
+info,#4232a8
+warning,#90a832
+danger,#a83259
+light,#a4c9e8
+dark,#080812
